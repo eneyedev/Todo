@@ -1,0 +1,8 @@
+body {
+    background: var(--very-dark-blue);
+}
+
+.btn,
+.header__input {
+    background: var(--very-dark-desaturated-blue);
+}
